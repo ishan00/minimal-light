@@ -6,3 +6,4 @@ keywords: minimal academic
 avatar: ./assets/img/avatar.png
 
 permalink: blog/:title
+remote_theme: yaoyao-liu/minimal-light
