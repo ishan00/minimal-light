@@ -5,5 +5,5 @@ email: ishantarunesh@gmail.com
 keywords: minimal academic
 avatar: ./assets/img/avatar.png
 
-permalink: blog/:title
+permalink: writings/:title
 remote_theme: yaoyao-liu/minimal-light
