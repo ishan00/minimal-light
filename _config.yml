@@ -4,3 +4,5 @@ title: Ishan Tarunesh
 email: ishantarunesh@gmail.com
 keywords: minimal academic
 avatar: ./assets/img/avatar.png
+
+permalink: blog/:title
