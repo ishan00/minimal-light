@@ -18,7 +18,7 @@ I am currently working as a Software Engineer in the Visual Display division of 
 <h4 style='display:inline;'> Trusting RoBERTa over BERT: Insights from CheckListing the Natural Language Inference Task <a href="https://arxiv.org/abs/2107.07229">[arXiv]</a></h4>
 <b>Ishan Tarunesh</b>, Somak Aditya and Monojit Choudhury<br>
 
-<h4 style='display:inline;'> From Machine Translation to Code-Switching: Generating High-Quality Code-Switched Text <a href="https://arxiv.org/abs/2107.06483">[arXiv]</a></h4>
+<h4 style='display:inline;'> From Machine Translation to Code-Switching: Generating High-Quality Code-Switched Text <a href="https://aclanthology.org/2021.acl-long.245.pdf">[Paper]</a> <a href="https://arxiv.org/abs/2107.06483">[arXiv]</a></h4>
 <b>Ishan Tarunesh</b>, Syamantak Kumar and Preethi Jyothi<br>
 Association for Computational Linguistics & International Joint Conference on Natural Language Processing <span style="background-color:#28B463; color:#fff; padding:3px; border-radius:4px">ACL-IJCNLP 2021</span>
 
