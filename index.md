@@ -15,16 +15,18 @@ I am currently working as a Software Engineer in the Visual Display division of 
 
 ## Publications & Preprints
 
-<h4 style='display:inline;'> Trusting RoBERTa over BERT: Insights from CheckListing the Natural Language Inference Task <a href="https://arxiv.org/abs/2107.07229">[arXiv]</a></h4>
+<h4 style='display:inline;'> Trusting RoBERTa over BERT: Insights from CheckListing the Natural Language Inference Task <a href="https://arxiv.org/abs/2107.07229"><b>[arXiv]</b></a></h4>
 <b>Ishan Tarunesh</b>, Somak Aditya and Monojit Choudhury<br>
 
-<h4 style='display:inline;'> From Machine Translation to Code-Switching: Generating High-Quality Code-Switched Text <a href="https://aclanthology.org/2021.acl-long.245.pdf">[Paper]</a> <a href="https://arxiv.org/abs/2107.06483">[arXiv]</a></h4>
+<h4 style='display:inline;'> From Machine Translation to Code-Switching: Generating High-Quality Code-Switched Text <a href="https://aclanthology.org/2021.acl-long.245.pdf"><b>[Paper]</b></a> <a href="https://arxiv.org/abs/2107.06483"><b>[arXiv]</b></a> <a href="https://github.com/ishan00/translation-for-code-switching-acl"><b>[Code]</b></a></h4>
 <b>Ishan Tarunesh</b>, Syamantak Kumar and Preethi Jyothi<br>
-Association for Computational Linguistics & International Joint Conference on Natural Language Processing <span style="background-color:#28B463; color:#fff; padding:3px; border-radius:4px">ACL-IJCNLP 2021</span>
+Association for Computational Linguistics & International Joint Conference on Natural Language Processing <span style="background-color:#28B463; color:#fff; padding:3px; border-radius:4px">ACL-IJCNLP 2021</span><br>
 
-<h4 style='display:inline;'> Meta-Learning for Effective Multi-task and Multilingual Modelling <a href="https://www.aclweb.org/anthology/2021.eacl-main.314.pdf">[Paper]</a> <a href="https://arxiv.org/abs/2101.10368">[arXiv]</a></h4>
+
+<h4 style='display:inline;'> Meta-Learning for Effective Multi-task and Multilingual Modelling <a href="https://www.aclweb.org/anthology/2021.eacl-main.314.pdf"><b>[Paper]</b></a> <a href="https://arxiv.org/abs/2101.10368"><b>[arXiv]</b></a> <a href="https://github.com/ishan00/meta-learning-for-multi-task-multilingual"><b>[Code]</b></a></h4>
 <b>Ishan Tarunesh</b>, Sushil Khyalia, vishwajeet kumar, Ganesh Ramakrishnan and Preethi Jyothi<br>
-European Chapter of the Association for Computational Linguistics. <span style="background-color:#28B463; color:#fff; padding:3px; border-radius:4px">EACL 2021</span>
+European Chapter of the Association for Computational Linguistics. <span style="background-color:#28B463; color:#fff; padding:3px; border-radius:4px">EACL 2021</span><br>
+
 
 <h4 style='display:inline;'> Predicting traffic volume and occupancy at failed detectors <a href="https://www.sciencedirect.com/science/article/pii/S2352146520305512">[Paper]</a></h4>
 <b>Ishan Tarunesh</b>, Edward Chung<br>
