@@ -37,7 +37,7 @@ Transportation Research Procedia (journal vol 48, 2020, pg 1072-1083)
 Yash Shah<sup>†</sup>, <b>Ishan Tarunesh</b><sup>†</sup>, Harsh Deshpande, Preethi Jyothi<br>
 (joint work)
 
-<h1 style='display:inline;'><a href="cv.pdf">CV</a></h1>(last updated May 2020)
+<h1 style='display:inline;'><a href="cv.pdf">CV</a></h1>(updated Sep 2021)
 
 <!--
 ## Others
